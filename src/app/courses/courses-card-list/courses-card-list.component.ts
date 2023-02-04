@@ -44,6 +44,8 @@ export class CoursesCardListComponent implements OnInit {
       )
       .subscribe();
 
+
+
   }
 
 }
